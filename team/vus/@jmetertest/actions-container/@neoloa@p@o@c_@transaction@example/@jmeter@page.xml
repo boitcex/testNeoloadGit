@@ -1,10 +1,10 @@
 <http-page executeResourcesDynamically="false" name="JmeterPage"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@jmetertest/%resources%/recorded-artifacts/f7038d32-0209-472d-84aa-c2e79f57d104.zip"
+    recordedArtifactZipFileName="team/vus/@jmetertest/%resources%/recorded-artifacts/e2942c46-a40a-44be-9e59-b09804cd0e13.zip"
     slaProfileEnabled="false" thinkTime=""
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="f7038d32-0209-472d-84aa-c2e79f57d104">
-    <embedded-action>32cabf7c-b384-455f-a26d-f1e2e0d64eb8</embedded-action>
+    thinkTimeRangeStart="" uid="e2942c46-a40a-44be-9e59-b09804cd0e13">
+    <embedded-action>20be84fe-e75e-4e7a-bfb1-90e347141431</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_f8792d79-72e6-44da-8e62-519da8519767.jpg</screenshotFileDescription>
 </http-page>
 <http-action actionType="1" eTag="&quot;5129-5f3b975a93578&quot;"
@@ -14,10 +14,10 @@
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/" path="/index.html" postCharset="" postType="2"
-    recordedArtifactZipFileName="team/vus/@jmetertest/%resources%/recorded-artifacts/f7038d32-0209-472d-84aa-c2e79f57d104.zip"
+    recordedArtifactZipFileName="team/vus/@jmetertest/%resources%/recorded-artifacts/e2942c46-a40a-44be-9e59-b09804cd0e13.zip"
     responseSize="0" serverUid="jmeter.apache.org"
-    slaProfileEnabled="true" slaProfileName="Profile1"
-    uid="32cabf7c-b384-455f-a26d-f1e2e0d64eb8" useKeepAlive="false">
+    slaProfileEnabled="false" slaProfileName="Profile1"
+    uid="20be84fe-e75e-4e7a-bfb1-90e347141431" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_32cabf7c-b384-455f-a26d-f1e2e0d64eb8</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_24730012-9f57-40e3-992a-2b9c9827a4d3.txt</requestContentFileDescription>
     <responseHeaders/>

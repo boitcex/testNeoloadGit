@@ -13,3 +13,5 @@ project.config.storage=ZIP
 team.server.enabled=true
 ssh.trustUnknownHosts.MONITORS=false
 team.server.project=/boitcex/testNeoloadGit.git
+project.workspace=6421aa4c552e910af2dfc227
+project.test-settings=063f8e0d-fc35-4174-bb05-77bd892be514

@@ -1,6 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="jmeter" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="589b23e4-d251-4d17-92f7-05e497371983" weightsEnabled="false">
-    <weighted-embedded-action uid="f7038d32-0209-472d-84aa-c2e79f57d104"/>
-</basic-logical-action-container>

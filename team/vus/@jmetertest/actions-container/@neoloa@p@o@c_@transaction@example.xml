@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="NeoloaPOC_TransactionExample" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="true" slaProfileName="Profile1"
+    uid="443c5447-aff0-4742-bb9b-0cf6d93c7207" weightsEnabled="false">
+    <weighted-embedded-action uid="e2942c46-a40a-44be-9e59-b09804cd0e13"/>
+</basic-logical-action-container>
